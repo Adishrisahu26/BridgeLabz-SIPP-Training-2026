@@ -1,5 +1,4 @@
-
-
+import java.util.Scanner;
 public class user_input_student_fee {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

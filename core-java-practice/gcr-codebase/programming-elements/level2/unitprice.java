@@ -1,5 +1,4 @@
-package BridgeLabz-SIPP-Training-2026.core-java-practice.gcr-codebase.programming-elements.level2;
-
+import java.util.Scanner;
 public class unitprice {
     public static void main(String[] args) {
         double totalPrice = 100.0;

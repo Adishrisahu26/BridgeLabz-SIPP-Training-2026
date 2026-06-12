@@ -42,4 +42,4 @@ public class MatrixToArray {
         sc.close();
     }
 }
-}
+

@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class average_marks {
     public static void main (String[] args) {
         int marks1 = 85;

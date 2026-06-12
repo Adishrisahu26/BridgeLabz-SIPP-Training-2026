@@ -1,3 +1,4 @@
+
 public class student_course_fee {
     public static void main(String[] args) {
         double courseFee = 1000.0;
