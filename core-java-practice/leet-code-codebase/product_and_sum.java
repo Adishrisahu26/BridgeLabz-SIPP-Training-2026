@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class product_and_sum {
     public int subtractProductAndSum(int n) {
         int product=1;

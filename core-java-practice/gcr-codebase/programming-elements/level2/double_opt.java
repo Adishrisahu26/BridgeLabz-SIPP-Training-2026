@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 public class double_opt {
     public static void main(String[] args) {
         double num1 = 10.5;

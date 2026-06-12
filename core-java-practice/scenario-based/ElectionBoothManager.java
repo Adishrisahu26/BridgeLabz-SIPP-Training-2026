@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class ElectionBoothManager {
     public static void main(String[] args) {
 

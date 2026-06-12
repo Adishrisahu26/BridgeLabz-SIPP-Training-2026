@@ -1,4 +1,4 @@
-package BridgeLabz-SIPP-Training-2026.core-java-practice.gcr-codebase.programming-elements.level2;
+import java.util.Scanner;
 
 public class quotient_and_remainder {
     public static void main(String[] args) {
