@@ -1,8 +1,13 @@
 import java.util.Scanner;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7aa6981fa71a14e02b19523b3f18502e93e1b820
 public class sum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+<<<<<<< HEAD
         double[] arr = new double[10];
         double sum = 0;
         int i = 0;
@@ -31,3 +36,16 @@ public class sum {
         sc.close();
     }
 }
+=======
+        double total = 0.0;
+        double number;
+
+        do {
+            number = sc.nextDouble();
+            total += number;
+        } while (number != 0);
+
+        System.out.println("Total = " + total);
+    }
+}
+>>>>>>> 7aa6981fa71a14e02b19523b3f18502e93e1b820
