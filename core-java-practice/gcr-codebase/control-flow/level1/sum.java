@@ -1,12 +1,17 @@
 import java.util.Scanner;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 7aa6981fa71a14e02b19523b3f18502e93e1b820
+=======
+
+>>>>>>> 8efaa810503198cc56198455c18cc82b2a996a98
 public class sum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         double[] arr = new double[10];
         double sum = 0;
@@ -37,6 +42,8 @@ public class sum {
     }
 }
 =======
+=======
+>>>>>>> 8efaa810503198cc56198455c18cc82b2a996a98
         double total = 0.0;
         double number;
 
@@ -47,5 +54,9 @@ public class sum {
 
         System.out.println("Total = " + total);
     }
+<<<<<<< HEAD
 }
 >>>>>>> 7aa6981fa71a14e02b19523b3f18502e93e1b820
+=======
+}
+>>>>>>> 8efaa810503198cc56198455c18cc82b2a996a98
